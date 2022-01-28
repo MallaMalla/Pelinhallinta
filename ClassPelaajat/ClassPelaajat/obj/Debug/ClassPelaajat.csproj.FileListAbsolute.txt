@@ -1,0 +1,16 @@
+D:\LAPIN AMK\Olio2\ClassPelaajat\ClassPelaajat\bin\Debug\ClassPelaajat.dll.config
+D:\LAPIN AMK\Olio2\ClassPelaajat\ClassPelaajat\bin\Debug\ClassPelaajat.dll
+D:\LAPIN AMK\Olio2\ClassPelaajat\ClassPelaajat\bin\Debug\ClassPelaajat.pdb
+D:\LAPIN AMK\Olio2\ClassPelaajat\ClassPelaajat\bin\Debug\EntityFramework.dll
+D:\LAPIN AMK\Olio2\ClassPelaajat\ClassPelaajat\bin\Debug\EntityFramework.SqlServer.dll
+D:\LAPIN AMK\Olio2\ClassPelaajat\ClassPelaajat\bin\Debug\System.Data.SQLite.dll
+D:\LAPIN AMK\Olio2\ClassPelaajat\ClassPelaajat\bin\Debug\System.Data.SQLite.EF6.dll
+D:\LAPIN AMK\Olio2\ClassPelaajat\ClassPelaajat\bin\Debug\System.Data.SQLite.Linq.dll
+D:\LAPIN AMK\Olio2\ClassPelaajat\ClassPelaajat\bin\Debug\EntityFramework.xml
+D:\LAPIN AMK\Olio2\ClassPelaajat\ClassPelaajat\bin\Debug\EntityFramework.SqlServer.xml
+D:\LAPIN AMK\Olio2\ClassPelaajat\ClassPelaajat\bin\Debug\System.Data.SQLite.xml
+D:\LAPIN AMK\Olio2\ClassPelaajat\ClassPelaajat\obj\Debug\ClassPelaajat.csproj.AssemblyReference.cache
+D:\LAPIN AMK\Olio2\ClassPelaajat\ClassPelaajat\obj\Debug\ClassPelaajat.csproj.CoreCompileInputs.cache
+D:\LAPIN AMK\Olio2\ClassPelaajat\ClassPelaajat\obj\Debug\ClassPelaajat.csproj.CopyComplete
+D:\LAPIN AMK\Olio2\ClassPelaajat\ClassPelaajat\obj\Debug\ClassPelaajat.dll
+D:\LAPIN AMK\Olio2\ClassPelaajat\ClassPelaajat\obj\Debug\ClassPelaajat.pdb
