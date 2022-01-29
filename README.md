@@ -1,9 +1,9 @@
 # Pelinhallinta
- Practice_C#
+ C# Practice
 
 C# - harjoitus
 
 Pieni harjoitustyö:
 Pelinhallinta-softa. 
 Lisää/poistaa/muokkaa pelaajia, hallitse pelaajien pistemääriä/pistehistoriaa.
-Tietokanta SQLitellä. 
+Tietokanta SQLitellä. Mahdollisuus tulostaa tiedot myös PDF:nä.
